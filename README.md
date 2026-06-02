@@ -59,9 +59,6 @@ npm start
 
 Want to contribute? Feel free to fork the repository, make changes, and submit a pull request.
 
-Contact
-
-For any queries or collaborations, reach out at akshayakokkerlapati@gmail.com
 
 
 ![image](https://github.com/user-attachments/assets/a6e90d14-1915-4d84-9c27-a4cb857400e3)
